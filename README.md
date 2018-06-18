@@ -1,4 +1,4 @@
-# timeit
+# shell-timeit
 
 ## Authors
 
@@ -6,4 +6,4 @@
 
 ## License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/horta/timeit/master/LICENSE.md).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/horta/shell-timeit/master/LICENSE.md).
