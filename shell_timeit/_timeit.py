@@ -6,9 +6,12 @@ from IPython.terminal.embed import InteractiveShellEmbed
 ipshell = InteractiveShellEmbed()
 ipshell.dummy_mode = True
 
+
 def get_version():
     import shell_timeit
+
     return shell_timeit.__version__
+
 
 @click.command()
 @click.argument("cmd", nargs=-1)
