@@ -1,5 +1,7 @@
 # shell-timeit
 
+Command-line utility for estimating elapsed time for shell commands.
+
 ## Authors
 
 * [Danilo Horta](https://github.com/horta)
