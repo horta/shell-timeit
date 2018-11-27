@@ -1,6 +1,6 @@
-import sys
-import click
 from subprocess import check_output
+
+import click
 from IPython.terminal.embed import InteractiveShellEmbed
 
 ipshell = InteractiveShellEmbed()
